@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Work Manager Demo</string>
+
+    <string name="simple_work">Start simple work</string>
+    <string name="cancel_simple_work">Cancel simple work</string>
+    <string name="periodic_work">Start periodic work</string>
+    <string name="cancel_periodic_work">Cancel periodic work</string>
+</resources>
